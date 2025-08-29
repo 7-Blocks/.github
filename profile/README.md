@@ -1,6 +1,6 @@
-# Seven Blocks ™
+<h1 align="center"><b>Seven Blocks ™</b></h1>
 
-Seven Blocks is a technology-driven organization committed to creating innovative, scalable, and secure digital solutions. We harness the power of cutting-edge technologies like blockchain and Web3 to empower businesses and developers, transforming ideas into impactful digital experiences. 
+<p align="center">Seven Blocks is a technology-driven organization committed to creating innovative, scalable, and secure digital solutions. We harness the power of cutting-edge technologies like blockchain and Web3 to empower businesses and developers, transforming ideas into impactful digital experiences.</p> 
 
 ---
 
