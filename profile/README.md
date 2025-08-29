@@ -30,7 +30,9 @@ Seven Blocks is powered by a passionate team of innovators:
 <!-- - 🌎 Website: *coming soon* -->  
 - 📧 Email: **sevenblocks.business@gmail.com**  
 - 💼 LinkedIn: [Seven Blocks](https://www.linkedin.com/company/seven-blocks/)  
-- 🐦 Twitter: [@SevenBlocks](https://x.com/SevenBlocks_)  
+- 🐦 Twitter: [@SevenBlocks](https://x.com/SevenBlocks_)
+- 📸 Instagram: [@SevenBlocks](https://www.instagram.com/sevenblocks_/)  
+- ▶️ YouTube: [Seven Blocks](https://www.youtube.com/@Seven-Blocks)   
 
 ---
 
