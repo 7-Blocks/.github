@@ -1,6 +1,8 @@
 <h1 align="center"><b>Seven Blocks ™</b></h1>
 
-<p align="center">Seven Blocks is a technology-driven organization committed to creating innovative, scalable, and secure digital solutions. We harness the power of cutting-edge technologies like blockchain and Web3 to empower businesses and developers, transforming ideas into impactful digital experiences.</p> 
+<p align="center">Seven Blocks is a technology-driven organization committed to creating innovative, scalable, and secure digital solutions. By harnessing the power of revolutionary technologies like blockchain and Web3, we empower businesses and developers worldwide — transforming bold ideas into impactful digital experiences that shape the future.</p> 
+
+<img src="https://github.com/krishkhinchi/Assets/blob/main/img/Black%20Elegant%20Professional%20Photography%20LinkedIn%20Banner%20(1).png" />
 
 ---
 
