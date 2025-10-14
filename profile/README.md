@@ -20,11 +20,11 @@ To become a global leader in **next-generation digital infrastructure**, where d
 
 ## 👥 Our Team  
 Seven Blocks is powered by a passionate team of innovators:  
-- **Krish** – UI/UX Designer & Team Lead  
-- **Khushi** – Backend Developer  
+- **Krish** – UI/UX Designer, BlockChain & Team Lead  
+- **Khushi** – Backend Developer & BlockChain
 - **Pratik** – Frontend Developer  
 - **Pritesh** – Frontend Developer  
-- **Chhaya** – Backend Developer  
+- **Chhaya** – Backend Developer & BlockChain
 
 ---
 
