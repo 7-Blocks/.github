@@ -23,7 +23,6 @@ Seven Blocks is powered by a passionate team of innovators:
 - **Krish Khinchi** – UI/UX Designer, BlockChain Developer & Team Lead 
 - **Pratik Solanki** – FullStack Developer  
 - **Pritesh Solanki** – FullStack Developer  
-- **Chhaya Choudhary** – Cheif Marketing Officer
 - **Mohin Khan** - Investor
 
 ---
