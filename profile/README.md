@@ -20,9 +20,10 @@ To become a global leader in **next-generation digital infrastructure**, where d
 
 ## 👥 Our Team  
 Seven Blocks is powered by a passionate team of innovators:  
-- **Krish Khinchi** – UI/UX Designer, BlockChain Developer & Team Lead 
+- **Krish Khinchi** – UI/UX Designer & BlockChain Developer 
 - **Pratik Solanki** – FullStack Developer  
-- **Pritesh Solanki** – FullStack Developer  
+- **Pritesh Solanki** – FullStack Developer
+- **Rohan Pandey** - Sales & Marketing
 - **Mohin Khan** - Investor
 
 ---
